@@ -1,4 +1,3 @@
-name = 'bqwe'
 name = "telegram-bot"
 main = "src/index.js"
 compatibility_date = "2025-09-01"
